@@ -1,0 +1,23 @@
+{
+  "name": "p5-node-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellee2/p5-node-assignment.git"
+  },
+  "author": "Eleonora Nitopi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ellee2/p5-node-assignment/issues"
+  },
+  "homepage": "https://github.com/ellee2/p5-node-assignment#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
